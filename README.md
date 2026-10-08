@@ -1,29 +1,32 @@
 # 📚 Library Management System
 
-A simple **Library Management System made with Java**.
-It allows users to add, view, search, and remove books using a command-line menu.
+A simple **Library Management System built using Java**.  
+The application provides a command-line interface that allows users to manage a collection of books easily.
 
 ## ✨ Features
 
-* Add a book
-* View all books
-* Search for a book
-* Remove a book
+- 📖 Add new books
+- 📚 View all available books
+- 🔍 Search for books
+- 🗑️ Remove books
 
 ## 🛠️ Technologies Used
 
-* Java
-* Java Collections
+- **Java**
+- **Java Collections Framework**
+- **Command-Line Interface (CLI)**
 
 ## ▶️ How to Run
 
-### Compile
+### 1. Compile the Program
+
+Open a terminal in the project directory and run:
 
 ```bash
 javac LibraryManagement.java
 ```
 
-### Run
+### 2. Run the Program
 
 ```bash
 java LibraryManagement
@@ -31,30 +34,37 @@ java LibraryManagement
 
 ## 💻 How It Works
 
-The program shows a simple menu where you can:
-
-1. Add a book
-2. View all books
-3. Search for a book
-4. Remove a book
-
-## 📁 Project Files
+When the program starts, it displays a menu with the following options:
 
 ```text
-LibraryManagement.java
-README.md
+1. Add a Book
+2. View All Books
+3. Search for a Book
+4. Remove a Book
 ```
 
-## 🎯 What I Learned
+Select an option by entering its corresponding number and follow the instructions displayed by the program.
 
-This project helped me practice:
+## 📁 Project Structure
 
-* Classes and Objects
-* Methods
-* Loops
-* If-else statements
-* User Input
-* Java Collections
+```text
+LibraryManagement/
+│
+├── LibraryManagement.java
+└── README.md
+```
+
+## 🎯 Learning Outcomes
+
+This project helped me strengthen my understanding of:
+
+- Classes and Objects
+- Methods
+- Loops
+- Conditional Statements
+- User Input
+- Java Collections
+- Basic CRUD operations
 
 ## 👨‍💻 Author
 
